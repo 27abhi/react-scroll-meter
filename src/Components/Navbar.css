@@ -1,0 +1,28 @@
+.navbarcontainer{
+    width: 100%;
+    background-color: cyan;
+    display:flex;
+    flex-direction: row;
+    padding:0.5rem;
+    position: fixed;
+}
+
+.navbarcontainer1{
+    flex: 1.5;
+}
+
+.navbarcontainer2{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    margin-left: 20pt;
+}
+
+.navbartitle{
+    font-size: 15pt;
+}
+
+.links{
+    flex: 1;
+    font-size: 15pt;
+}

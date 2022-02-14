@@ -1,0 +1,10 @@
+.scroll-container{
+    position: fixed;
+    width: 100%;
+    height: 5px;
+  }
+  
+  .scroll-container .indicator{
+    height: 100%;
+    
+  }
